@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  RabbitSearch
+
+  Created by Christian Bleske on 30.01.14.
+  Copyright (c) 2014 Christian Bleske. All rights reserved.
+*/
+"lblEndNode" = "Ende";
+"msgSpring" = "Frühling";
+"msgSummer" = "Sommer";
+"msgAutumn" = "Herbst";
+"msgWinter" = "Winter";
+"gameTitle" = "Suche die Häschen";
+"rabbitConterStartValue" = "0 Hasen";
+"textRestartLabel" = "Zum starten Bildschirm antippen";
+"textGoOnLabel" = "Weiter";
+"rabbitConuter" = "%ld Hasen";
+"rabbitsCatched" = "Alle Häschen gefunden";
+"textInfoLabel" = "Grafiken von Sanela Bleske, Programmierung von Christian Bleske";
+"textCopyright" = "Copyright 2014 by Sanela & Christian Bleske";

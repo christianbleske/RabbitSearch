@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  RabbitSearch
+
+  Created by Christian Bleske on 30.01.14.
+  Copyright (c) 2014 Christian Bleske. All rights reserved.
+*/
+"lblEndNode" = "The End";
+"msgSpring" = "The Spring";
+"msgSummer" = "The Summer";
+"msgAutumn" = "The Autumn";
+"msgWinter" = "The Winter";
+"gameTitle" = "Find the Rabbits";
+"rabbitConterStartValue" = "0 Rabbits";
+"textRestartLabel" = "Touch the screen to start";
+"textGoOnLabel" = "Next";
+"rabbitConuter" = "%ld Rabbits";
+"rabbitsCatched" = "All rabbits found";
+"textInfoLabel" = "Graphics by Sanela Bleske, Programming by Christian Bleske";
+"textCopyright" = "Copyright 2014 by Sanela & Christian Bleske";
